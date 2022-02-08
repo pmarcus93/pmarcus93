@@ -1,6 +1,7 @@
 # Heyo, I'm Marcus! ✨
 
 ### What do you need to know about me:
+- 🛠️ Tech Lead @ Getrak
 - 👨‍💻 For the past 7-ish years I have been working as a software developer (mostly on web applications).
 - 📘 Currently learning some jamstack stuff.
 - ✨ I really like well made and polished software. 
