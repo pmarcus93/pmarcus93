@@ -1,6 +1,7 @@
 # Hi, I'm Marcus! ✨
 
 [Blog (English)](https://marcuspereira.com)
+
 [Blog (Portuguese)](https://marcuspereira.com/pt-BR)
 
 ### What do you need to know about me:
