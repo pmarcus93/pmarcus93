@@ -6,7 +6,6 @@
 
 ### What do you need to know about me:
 
-- 🛠️ Tech Lead @ Getrak
 - 🗣️ English and Brazilian Portuguese speaker.
 - 👨‍💻 For the past 8-ish years I have been working as a software developer (mostly on web applications).
 - 📘 JAMStack enthusiast.
