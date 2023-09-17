@@ -1,14 +1,14 @@
 # Hi, I'm Marcus! ✨
 
-[Blog (English)](https://marcuspereira.com)
+![logo](https://github.com/pmarcus93/pmarcus93/assets/6492177/9bcd2480-e1d6-4e6f-b101-b8277706d51e)
 
-[Blog (Portuguese)](https://marcuspereira.com/pt-BR)
+[English Blog](https://marcuspereira.com) | [Portuguese Blog](https://marcuspereira.com/pt-BR)
 
 ### What do you need to know about me:
 
-- 🗣️ English and Brazilian Portuguese speaker.
-- 👨‍💻 For the past 8-ish years I have been working as a software developer (mostly on web applications).
-- ✨ I really like well made and polished software. 
-- 👀 Super into optimization, both on the front and the back end of web applications.
-- 📱 Into mobile development as well, I'm a big mobile-stuff nerd.
-- 🕹️ Love videogames and everything related to them - emulation, homhacking, decompilations, ports, etc.
+- 🗣️ Portuguese and english speaker.
+- 👨‍💻 For the past 8-ish years I've been working as a software developer and as tech lead, focusing on apps for the web, Android and iOS. 
+- 👀 Super into optimization, on both front and back end.
+- 🕹️ I love videogames and everything related to them - emulation, homhacking, decompilations, ports, etc.
+
+Currently open to work. :) 
