@@ -1,6 +1,6 @@
 # Hi, I'm Marcus! ✨
 
-![logo](https://github.com/pmarcus93/pmarcus93/assets/6492177/9bcd2480-e1d6-4e6f-b101-b8277706d51e)
+![logo](https://github.com/pmarcus93/pmarcus93/assets/6492177/111cca79-c1e6-433c-8785-0383f4a33d5b)
 
 [English Blog](https://marcuspereira.com) | [Portuguese Blog](https://marcuspereira.com/pt-BR)
 
