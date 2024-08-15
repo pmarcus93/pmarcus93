@@ -6,7 +6,7 @@
 
 ### What do you need to know about me:
 
-- 🗣️ Portuguese and english speaker.
-- 👨‍💻 For the past 8-ish years I've been working as a software developer and as tech lead, focusing on apps for the web, Android and iOS. 
+- 🗣️ Portuguese and english speaker, currently learning spanish and japanese. 
+- 👨‍💻 For the past 9-ish years I've been working as a software developer and as tech lead, focusing on apps for the web and mobile (Android and iOS). 
 - 👀 Super into optimization, front and back end wise.
 - 🕹️ I love videogames and everything related to them - emulation, homhacking, decompilations, ports, etc.
